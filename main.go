@@ -12,8 +12,6 @@ import (
 	"strings"
 )
 
-// https://ipgeolocation.abstractapi.com/v1/?api_key=e43b27f3cf944cf984808676a82ca88d&ip_address=188.241.103.246
-
 func main() {
 	var ipAddress string
 
